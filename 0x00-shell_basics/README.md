@@ -9,3 +9,7 @@ scrpit7 mv a directory
 script8 deletes a file
 script9 deletes a directory
 script10 moves directory to previous
+script11 list all file in 3 directories
+script12 prints type of file
+script13 creates a symbolic link
+script14 copy html files
