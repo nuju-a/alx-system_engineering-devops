@@ -1,2 +1,2 @@
 #!/bin/bash
-cp --from=guilluame betty hello
+chown --from=guilluame hello 
