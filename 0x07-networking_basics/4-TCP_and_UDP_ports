@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#Description: Tells how to display listening port and their pid
+netstat -l -p
